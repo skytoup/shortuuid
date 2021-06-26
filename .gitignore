@@ -47,6 +47,11 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 
 # CocoaPods
 #
